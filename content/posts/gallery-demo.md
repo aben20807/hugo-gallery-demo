@@ -4,6 +4,8 @@ date: 2022-07-28T11:05:57+08:00
 draft: false
 ---
 
+Check [the post](https://aben20807.github.io/posts/20220728-hugo-easy-gallery-shortcode/) for further information.
+
 + By default: 2 images for each row
 {{< gallery >}}
 ![](https://lh3.googleusercontent.com/pw/AM-JKLVm1_boC8RA1aIv0ZUVc6IdrBXjgEyl1m9klNm8MRS7swkvtZB8F08Gw3se3SrUJ5RSHTB10TOGP6BtUbfVu5ZkXLIuffTCy5ucIiWOMpNWuwfymgPP65S7fiOBPOhMRCC7tZyAGAAJULYakAX0O6PiaA=w1643-h1232-no?authuser=1)
