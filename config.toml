@@ -2,5 +2,7 @@ baseurl = 'https://aben20807.github.io/hugo-gallery-demo'
 languagecode = 'en-us'
 title = 'gallery demo'
 theme = "ananke"
+
 [params]
 custom_css = ["gallery.css"]
+author = "Huang, Po-Hsuan (aben20807@gmail.com)"
